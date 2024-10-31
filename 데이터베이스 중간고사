@@ -146,9 +146,9 @@ SET 필드 명 = 수정 후 값
 WHERE 필드명 = 데이터값;
 
 <삭제>
-SELECT 필드명
-FROM 테이블 명
-WHERE 필드명 = 데이터값;
+DELETE 
+FROM 테이블명 
+WHERE 조건;
 
 
 
